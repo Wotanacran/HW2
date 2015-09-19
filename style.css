@@ -1,3 +1,48 @@
 body{
 	font-family:Arial,Helvettica,sans-serif;
+	background-color:Gold;
+	
+}
+
+div{
+	background-color:#03B89D;
+	margin-left:150px;
+	margin-right:150px;
+	padding-left:5px;
+	padding-right:5px;
+	text-align: left;
+	border-color: black;
+	border-style:solid;
+	
+}
+header{
+	width:80%;
+	background-color:blue;
+	color: black;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 1px;
+	}
+header h1{
+	text-align:center;
+	line-height:.5em;
+}
+nav{
+	
+}
+img{
+	width:50%;
+	height:50%;
+}
+figure{
+	text-align: center;
+	width:50%;
+	height:50%;
+	
+	
+}
+
+
+footer{
+	
 }
